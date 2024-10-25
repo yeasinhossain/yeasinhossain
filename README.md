@@ -1,9 +1,8 @@
 ![👋 Hi, my name is Yeasin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <p align="center">
-  <video src="assets/processing.mp4" controls="controls" autoplay="true" loop="true" muted="true" width="100%" height="auto">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://i.imgur.com/filename.gif" alt="Processing GIF" width="100%">
 </p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
