@@ -1,6 +1,20 @@
 ![👋 Hi, my name is Yeasin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <p align="center">
+  <svg width="500" height="80">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#04AD68;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF6600;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-family="Montserrat, sans-serif" font-size="40" font-weight="700" fill="url(#gradient)">
+      Yeasin Hossain
+    </text>
+  </svg>
+</p>
+
+<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Montserrat&font-weight=700&center=true&width=560&height=50&color=f75c7e&vCenter=true&pause=900&size=26" /></a>
