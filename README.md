@@ -1,20 +1,11 @@
 ![👋 Hi, my name is Yeasin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+<svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
+  <image href="assets/yeasin.jpg" x="0" y="0" width="50" height="50" />
+</svg>
 <p align="center">
-  <svg width="500" height="80">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#04AD68;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF6600;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-family="Montserrat, sans-serif" font-size="40" font-weight="700" fill="url(#gradient)">
-      Yeasin Hossain
-    </text>
-  </svg>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=600&color=00CE84&center=true&vCenter=true&width=460&height=35&lines=Web+and+app+developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=600&color=00B090&center=true&vCenter=true&width=435&lines=Web+and+app+developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
