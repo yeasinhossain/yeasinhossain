@@ -10,7 +10,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/myeasinhossain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
-  <a href="https://twitter.com/meetyeasin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
+  <a href="https://x.com/meetyeasin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
   <a href="https://www.youtube.com/@TheYeasinHossain?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a>
   <a href="https://www.pinterest.com/yeasinhossain" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&&logo=Pinterest&logoColor=white" height="28" style="margin-right: 4px"></a>
   <a href="https://dribbble.com/yeasinhossain" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" height="28" style="margin-right: 4px"></a>
