@@ -1,5 +1,11 @@
 ![👋 Hi, my name is Yeasin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <p align="center">
+  <video src="assets/processing.mp4" controls="controls" autoplay="true" loop="true" muted="true" width="100%" height="auto">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Montserrat&font-weight=700&center=true&width=560&height=50&color=f75c7e&vCenter=true&pause=900&size=26" /></a>
@@ -15,7 +21,6 @@
 </p>
 <br/>
 
-
 <details open> 
   <summary><h2>🚀 About me</h2></summary>
   <h4> I'm a self-taught passionate Web Developer and UI designer from Bangladesh</h4>
@@ -28,7 +33,6 @@
   - 📝 Blog: **<a href="https://yeasin.me/blog/" target="_blank">https://yeasin.me/blog/</a>**
 </details>
 
-
 <details> 
   <summary><h2>📂 Portfolio</h2></summary>
   <a href="https://yeasin.me/works/" title="Portfolio of Yeasin Hossain"><img src="https://yeasin.me/wp-content/uploads/2024/10/FeaturedWorks.webp"></a>
@@ -40,7 +44,6 @@
   <summary><h2>🛠️ Tools & Skills</h2></summary>
   <table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=php" height="32" alt="PHP"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=jquery" height="32" alt="JQuery"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=react" height="32" alt="React"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=redux" height="32" alt="Redux"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=laravel" height="32" alt="Laravel"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=sublime" height="32" alt="Sublime Text"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=flutter" height="32" alt="Flutter"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=firebase" height="32" alt="Firebase"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=xd" height="32" alt="Adobe XD"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="32" alt="Illustrator"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="32" alt="Photoshop"/></td></table>
 </details>
-
 
 <details> 
   <summary><h2>📊 GitHub Stats and Activity</h2></summary>
