@@ -1,10 +1,10 @@
 ![👋 Hi, my name is Yeasin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
-  <image href="assets/yeasin.jpg" x="0" y="0" width="50" height="50" />
-</svg>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=600&color=00CE84&center=true&vCenter=true&width=460&height=35&lines=Web+and+app+developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+<img  width="450" src="assets/yeasin.jpg"/></br></br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=600&color=00CE84&center=true&vCenter=true&width=520&height=35&lines=Web+and+app+developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+</br></br>
 </p>
 
 <!-- Social icons section -->
