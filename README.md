@@ -1,8 +1,6 @@
-![👋 Hi, my name is Yeasin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
-
 <p align="center">
-<img  width="450" src="assets/yeasin.jpg"/></br></br>
+<img src="https://yeasin.me/wp-content/uploads/2024/10/developer.gif"/></br>
+<img width="450" src="assets/yeasin.jpg"/></br></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=600&color=00CE84&center=true&vCenter=true&width=520&height=35&lines=Web+and+app+developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </br></br>
 </p>
